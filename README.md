@@ -16,6 +16,7 @@ En este espacio estoy documentando lo que he aprendido sobre dos característica
 Las expresiones lambda permiten representar funciones anónimas (sin nombre) y se utilizan principalmente para implementar métodos funcionales (de interfaces funcionales) de forma más clara.
 
 **Sintaxis básica:**
+
 ```java
 (parametros) -> { cuerpo }
-# lambdas-streams
+```
